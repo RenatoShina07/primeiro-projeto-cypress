@@ -2,8 +2,8 @@
 
 > Projetos em andamento e exercícios de cursos
 
-Este readme foi criado durante o curso de git e github
+Este readme foi criado durante o curso de cypress
 
 ```
-primeiro repositorio no github
+repositorio cypress
 ```
